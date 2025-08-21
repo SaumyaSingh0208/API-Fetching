@@ -1,4 +1,5 @@
-🛍️ API Fetching Project
+**🛍️ API Fetching Project**
+
 📌 Overview
 
 This is a simple React project built with Vite.
@@ -15,6 +16,7 @@ Rendering lists dynamically in React
 
 Basic CSS styling
 
+
 🚀 Features
 
 Fetches products from a free API
@@ -22,6 +24,7 @@ Fetches products from a free API
 Displays product images, brand names, and action buttons
 
 Clean and responsive UI
+
 
 🛠️ Tech Stack
 
@@ -46,8 +49,11 @@ API-Fetching/
 └── README.md
 
 ⚡ Getting Started
+
 1️⃣ Clone the repo
+
 git clone https://github.com/your-username/API-Fetching.git
+
 cd API-Fetching
 
 2️⃣ Install dependencies
