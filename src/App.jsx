@@ -39,7 +39,7 @@ const App=()=>{
   },[]);
 
   return(<>
-  <h1>Our Products</h1>
+  <h1>Our Product</h1>
   <div className="product-conatiner">
    {productList?.map((products)=>{
     return(
